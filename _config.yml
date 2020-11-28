@@ -9,7 +9,7 @@ permalink: /:categories/:title
 
 # Header links
 header_pages: 
-  - links.md
+  - [LinkedIn](https://www.linkedin.com/in/azarsimon/)
   - subscriptions.md
   - blogs.md
 
