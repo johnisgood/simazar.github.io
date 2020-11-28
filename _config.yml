@@ -10,7 +10,7 @@ url: "https://simazar.github.io/" # the base hostname & protocol for your site, 
 github_username:  simazar
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
