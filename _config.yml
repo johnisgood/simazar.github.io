@@ -9,9 +9,7 @@ permalink: /:categories/:title
 
 # Header links
 header_pages: 
-  - [LinkedIn](https://www.linkedin.com/in/azarsimon/)
-  - subscriptions.md
-  - blogs.md
+  - about.md
 
 # Social
 github_username: simazar
